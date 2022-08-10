@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# is a factors challenge
+# is a factors challenge PRO
 
 check_factor()
 {
